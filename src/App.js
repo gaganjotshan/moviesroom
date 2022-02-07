@@ -1,7 +1,7 @@
 import "./App.css";
 import Login from "./Login";
 import Header from "./Header";
-import Loading from "./Loding";
+
 import { useStateValue } from "./StateProvider";
 import { useEffect, useState } from "react";
 import { firedb } from "./firebase";
